@@ -37,10 +37,6 @@ tasks.named('test') {
 }
 
 
-//plugins {
-//    id "org.sonarqube" version "3.5.0.2730"
-//}
-//
 sonar {
     properties {
         property "sonar.projectKey", "8c41af07477376b9258d4085d2b369728a398510"
