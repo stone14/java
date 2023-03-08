@@ -39,6 +39,6 @@ tasks.named('test') {
 
 sonar {
     properties {
-        property "sonar.projectKey", "8c41af07477376b9258d4085d2b369728a398510"
+        property "sonar.projectKey", "aa7afe5971a6aa680d4a255c99447b43124c6244"
     }
 }
