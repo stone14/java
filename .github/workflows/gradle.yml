@@ -1,4 +1,4 @@
-name: next-api-common
+name: test
 
 on:
   push:
